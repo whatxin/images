@@ -1,0 +1,60 @@
+/* 轮播图片大小 */
+
+swiper-item image {
+  width: 750rpx;
+  height: 320rpx;
+}
+
+/* 乐园活动 */
+
+page {
+  background: #F0F0F0;
+}
+.activity {
+  font-size: 28rpx;
+  line-height: 1;
+  margin: 20rpx 0 30rpx 30rpx;
+  font-weight: 500;
+}
+
+/* 列表 */
+
+.list {
+  position: relative;
+  width: 750rpx;
+  height: 500rpx;
+  background: #fff;
+  margin-top: 20rpx;
+}
+
+.list image {
+  width: 750rpx;
+  height: 320rpx;
+}
+
+.title .name {
+  font-size: 30rpx;
+  line-height: 42rpx;
+  margin: 16rpx 130rpx 0 30rpx;
+}
+
+.title .mian {
+  position: absolute;
+  font-size: 30rpx;
+  right: 30rpx;
+  top: 343rpx;
+  color: #fe6249;
+}
+
+.title .bao text {
+  position: absolute;
+  bottom: 22rpx;
+  margin-left: 60rpx;
+  margin-right: 20rpx;
+  color: #B4B4B4;
+  font-size: 22rpx;
+}
+
+.title .bao text:nth-child(2) {
+  margin-left: 291rpx;
+}
