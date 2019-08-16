@@ -14,7 +14,7 @@ page {
   font-size: 28rpx;
   line-height: 1;
   margin: 20rpx 0 30rpx 30rpx;
-  font-weight: 500;
+  font-weight: 700;
 }
 
 /* 列表 */

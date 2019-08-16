@@ -1,54 +1,56 @@
 <!-- 轮播图 -->
-<swiper indicator-dots indicator-color="rgba(255,255,255,.5)" indicator-active-color="#FFFFFF" autoplay interval="3000" circular>
+<swiper indicator-dots indicator-color="rgba(255,255,255,.5)" indicator-active-color="#FFFFFF" autoplay interval="3000"
+  circular>
   <swiper-item>
-    <image src='../../static/uploads/slide_1.jpg'></image>
+    <image src="https://whatxin.github.io/images/static/uploads/slide_1.jpg"></image>
   </swiper-item>
   <swiper-item>
-    <image src='../../static/uploads/slide_2.jpg'></image>
+    <image src="https://whatxin.github.io/images/static/uploads/slide_2.jpg"></image>
   </swiper-item>
   <swiper-item>
-    <image src='../../static/uploads/slide_3.jpg'></image>
+    <image src="https://whatxin.github.io/images/static/uploads/slide_3.jpg"></image>
   </swiper-item>
   <swiper-item>
-    <image src='../../static/uploads/slide_4.jpg'></image>
+    <image src="https://whatxin.github.io/images/static/uploads/slide_4.jpg"></image>
   </swiper-item>
 </swiper>
 
 <!-- 乐园活动 -->
-<view class='activity'>乐园活动</view>
+<view class="activity">乐园活动</view>
 <!-- 列表 -->
-<view class='list'>
-  <image src='../../static/uploads/item_2.png'></image>
-  <view class='title'>
-    <view class='name'>疯狂的红包 不一样的撕名牌 大型家庭亲子户外活动</view>
-    <view class='mian'>免费</view>
-    <view class='bao'>
+<view class="list">
+  <image src="https://whatxin.github.io/images/static/uploads/item_2.png"></image>
+  <view class="title">
+    <view class="name">疯狂的红包 不一样的撕名牌 大型家庭亲子户外活动</view>
+    <view class="mian">免费</view>
+    <view class="bao">
       <text>200人已报名</text>
       <text>本周六开始</text>
     </view>
   </view>
 </view>
 
-<view class='list'>
-  <image src='../../static/uploads/item_1.png'></image>
-  <view class='title'>
-    <view class='name'>疯狂的红包 不一样的撕名牌 大型家庭亲子户外活动</view>
-    <view class='mian'>免费</view>
-    <view class='bao'>
+<view class="list">
+  <image src="https://whatxin.github.io/images/static/uploads/item_1.png"></image>
+  <view class="title">
+    <view class="name">摄影兴趣班- 7天教会你精通摄影，培养孩子兴趣从娃娃抓起</view>
+    <view class="mian">免费</view>
+    <view class="bao">
       <text>200人已报名</text>
       <text>本周六开始</text>
     </view>
   </view>
 </view>
 
-<view class='list'>
-  <image src='../../static/uploads/item_3.png'></image>
-  <view class='title'>
-    <view class='name'>疯狂的红包 不一样的撕名牌 大型家庭亲子户外活动</view>
-    <view class='mian'>免费</view>
-    <view class='bao'>
+<view class="list">
+  <image src="https://whatxin.github.io/images/static/uploads/item_3.png"></image>
+  <view class="title">
+    <view class="name">疯狂的红包 不一样的撕名牌 大型家庭亲子户外活动</view>
+    <view class="mian">免费</view>
+    <view class="bao">
       <text>200人已报名</text>
       <text>本周六开始</text>
     </view>
   </view>
 </view>
+<view></view>
